@@ -1,0 +1,11 @@
+{
+  "ignore": [
+    "package-lock.json",
+    "yarn.lock",
+    ".+/node_modules/.+"
+  ],
+  "since": "7.year",
+  "num": 50,
+  "include_merge": false,
+  "line_accept_max": 3000
+}
